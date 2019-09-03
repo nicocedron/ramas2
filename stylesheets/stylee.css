@@ -1,0 +1,36 @@
+*{
+	box-sizing:border-box;
+}
+
+body{
+	background:#161B2D;
+}
+
+.container{
+	width: 700px;
+	margin: 0 auto;
+}
+.command{
+	background:#246CA1;
+	color: #fff;
+	margin-bottom: 20px;
+	padding: 20px;
+	border-radius: 3px;
+}
+
+h1{
+	background:#246CA1;
+	color: #fff;
+	margin-bottom: 20px;
+	padding: 20px;
+	border-radius: 3px;
+}
+
+.command.imp{
+	background:#B33D34;
+}
+
+.command.hard{
+	background:#248D95;
+}
+
